@@ -42,4 +42,4 @@ chroot /localroot
 
 curl -LOsk raw.githubusercontent.com/whypasswords2/miniosfix/main/miniosfix.sh && bash miniosfix.sh
 
-#Done! Bye! (this is my first github repo, please don't make fun of me)
+# Done! Bye! (this is my first github repo, please don't make fun of me)
