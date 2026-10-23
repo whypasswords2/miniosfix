@@ -41,3 +41,5 @@ chroot /localroot
 (you will see your shell change)
 
 curl -LOsk raw.githubusercontent.com/whypasswords2/miniosfix/main/miniosfix.sh && bash miniosfix.sh
+
+#Done! Bye! (this is my first github repo, please don't make fun of me)
